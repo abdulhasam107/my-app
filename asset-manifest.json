@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdulhasam107/my-app.git/static/css/main.6321ea06.css",
+    "main.js": "/abdulhasam107/my-app.git/static/js/main.17a8a836.js",
+    "static/js/453.ed3810f9.chunk.js": "/abdulhasam107/my-app.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/abdulhasam107/my-app.git/index.html",
+    "main.6321ea06.css.map": "/abdulhasam107/my-app.git/static/css/main.6321ea06.css.map",
+    "main.17a8a836.js.map": "/abdulhasam107/my-app.git/static/js/main.17a8a836.js.map",
+    "453.ed3810f9.chunk.js.map": "/abdulhasam107/my-app.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6321ea06.css",
+    "static/js/main.17a8a836.js"
+  ]
+}
